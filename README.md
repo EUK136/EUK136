@@ -17,6 +17,7 @@
 
 <p align="left">
 <img width="65" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original-wordmark.svg" />
+<img width="55" height="55" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg">
 <p>
 
 ### Learning:
